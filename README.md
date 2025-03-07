@@ -8,6 +8,9 @@ A favicon divider to separate Web Panel icons in Floorp's sidebar. It works perf
 
 ## "Installation"
 
+1. Set "DuckDuckGo" as the icon provider in the Browser Manager Sidebar settings.
+  ![Select DuckDuckGo](md/icon_provider.png)
+
 1. Save [this page](https://enigmabyte8.github.io/web-panel-divider/) as Web Panel to your sidebar.
 
   ![Create Divider](md/create.png)
